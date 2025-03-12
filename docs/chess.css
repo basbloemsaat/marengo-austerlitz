@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+header {
+  background: #333 url("./images/Chess_pieces_close_up_small.jpg") no-repeat
+    center center;
+  text-shadow: 0 0 0.5rem white;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+header img#logo {
+  float: left;
+}
+
+p {
+  text-align: center;
+  margin: 1rem 0;
+  padding: 0 2rem;
+}
+footer {
+  text-align: center;
+  padding: 1rem 0;
+}
